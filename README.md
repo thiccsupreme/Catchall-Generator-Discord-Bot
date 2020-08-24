@@ -1,1 +1,1 @@
-# Catchall-Generator-Discord-Bot
+# Catchall Gen Discord Bot
